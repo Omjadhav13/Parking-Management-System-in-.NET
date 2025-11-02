@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\controllers\\parkingslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\controllers\\parkingslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102081843_mgss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParkingSystemApplication\\Migrations\\20251102081843_mgss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\models\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\models\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102075052_mgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParkingSystemApplication\\Migrations\\20251102075052_mgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102074815_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParkingSystemApplication\\Migrations\\20251102074815_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\parkingslots\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\parkingslots\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\parkingslots\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\parkingslots\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\parkingslots\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\parkingslots\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\parkingslots\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\parkingslots\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\views\\parkingslots\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\views\\parkingslots\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102073912_newmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParkingSystemApplication\\Migrations\\20251102073912_newmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\parkingsystemapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\parkingsystemapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\cdac\\web_apis\\parkingsystemapplication\\parkingsystemapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D4441-8F63-419C-8CBE-D535F1F6D64F}|ParkingSystemApplication\\ParkingSystemApplication.csproj|solutionrelative:parkingsystemapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T10:38:23.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T10:29:38.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T10:29:24.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Vehicles\\Create.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\Vehicles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Vehicles\\Create.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\Vehicles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T08:14:19.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Index.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\ParkingSlots\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Index.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\ParkingSlots\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T07:45:00.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\ParkingSlots\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Edit.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\ParkingSlots\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T07:44:56.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Models\\Vehicle.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:31:14.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParkingSlotsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Controllers\\ParkingSlotsController.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Controllers\\ParkingSlotsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Controllers\\ParkingSlotsController.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Controllers\\ParkingSlotsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T21:02:49.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAkwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T21:01:50.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T10:24:27.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Vehicles\\Details.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\Vehicles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Vehicles\\Details.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\Vehicles\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T08:14:39.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Vehicles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\Vehicles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Vehicles\\Edit.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\Vehicles\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T08:14:45.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Vehicles\\Index.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\Vehicles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\Vehicles\\Index.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\Vehicles\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T08:16:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251102081843_mgss.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102081843_mgss.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Migrations\\20251102081843_mgss.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102081843_mgss.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Migrations\\20251102081843_mgss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:18:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Details.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\ParkingSlots\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Details.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\ParkingSlots\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T07:44:37.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\ParkingSlots\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Delete.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\ParkingSlots\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T07:43:38.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParkingSlot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Models\\ParkingSlot.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Models\\ParkingSlot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Models\\ParkingSlot.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Models\\ParkingSlot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:31:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Create.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Views\\ParkingSlots\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Views\\ParkingSlots\\Create.cshtml",
+              "RelativeToolTip": "ParkingSystemApplication\\Views\\ParkingSlots\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T07:42:11.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251102074815_mg.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102074815_mg.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Migrations\\20251102074815_mg.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102074815_mg.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Migrations\\20251102074815_mg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:48:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251102075052_mgs.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102075052_mgs.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Migrations\\20251102075052_mgs.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102075052_mgs.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Migrations\\20251102075052_mgs.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:50:52.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251102073912_newmg.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102073912_newmg.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Migrations\\20251102073912_newmg.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Migrations\\20251102073912_newmg.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Migrations\\20251102073912_newmg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:39:15.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:06:13.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\Program.cs",
+              "RelativeToolTip": "ParkingSystemApplication\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA8AAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:11:05.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\appsettings.json",
+              "RelativeToolTip": "ParkingSystemApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T19:51:51.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ParkingSystemApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\ParkingSystemApplication.csproj",
+              "RelativeDocumentMoniker": "ParkingSystemApplication\\ParkingSystemApplication.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CDAC\\WEB_APIs\\ParkingSystemApplication\\ParkingSystemApplication\\ParkingSystemApplication.csproj",
+              "RelativeToolTip": "ParkingSystemApplication\\ParkingSystemApplication.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T19:33:21.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
