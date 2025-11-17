@@ -25,4 +25,12 @@ It allows parking administrators to monitor slot availability, process vehicle c
 - Backend logic to **automatically update slot status**, ensuring accurate tracking of occupied vs free spaces.  
 - Clean architecture with separation of concerns (Controllers, Services, Repositories) and modular codebase for easy maintenance.
 
-## 🗂️ Project Structure  
+---
+
+## 🎓 Learning Outcomes & Skills Demonstrated
+
+-Implemented ASP.NET Core MVC web application architecture.
+-Used Entity Framework Core for ORM, migrations, and data persistence with SQL Server.
+-Designed database schema and logic for real-time slot tracking and management.
+-Created a responsive user interface using Bootstrap and Razor views.
+-Applied clean code practices and structured project layout for maintainability.
